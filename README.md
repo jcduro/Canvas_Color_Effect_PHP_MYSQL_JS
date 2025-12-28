@@ -3,7 +3,7 @@ Pequeño módulo para seleccionar un color desde una base de datos MySQL y aplic
 
 ---
 
-##🧩 Características
+## 🧩 Características
 - Selector de colores alimentado desde la tabla colores_bex (MySQL / PDO).
 - Imagen de camiseta base en PNG con fondo transparente.
 - Aplicación de color con HTML5 Canvas (globalCompositeOperation + overlay).
