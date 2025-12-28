@@ -1,4 +1,4 @@
-##🎨 Canvas Color T‑Shirt Picker
+## 🎨 Canvas Color T‑Shirt Picker
 Pequeño módulo para seleccionar un color desde una base de datos MySQL y aplicarlo a una camiseta usando <canvas>, manteniendo un estilo de dashboard azul neón.
 
 ---
@@ -12,7 +12,7 @@ Pequeño módulo para seleccionar un color desde una base de datos MySQL y aplic
 
 ---
 
-##✨ Vista previa
+## ✨ Vista previa
 
 ![Canvas_Preview](previewcanvas.gif)
 
@@ -62,7 +62,7 @@ INSERT INTO colores (colores, rgb_color) VALUES
 
 ---
 
-##🛠️ Stack y tecnologías
+## 🛠️ Stack y tecnologías
 Backend: PHP 8.x con PDO (MySQL).
 Base de datos: MySQL / MariaDB.
 Frontend: HTML5, CSS3 (neon UI), JavaScript ES6.
@@ -71,7 +71,7 @@ Iconos: Font Awesome (para integrar con el dashboard si se desea).
 
 ---​
 
-##🚀 Modo de uso
+## 🚀 Modo de uso
 Clonar el repo
 
  ```text
@@ -127,7 +127,7 @@ canvas_color/
  ```
 ---
 
-##🧪 Detalles técnicos de Canvas
+## 🧪 Detalles técnicos de Canvas
 La camiseta se dibuja sobre el canvas con drawImage.
 El color se aplica solo sobre los píxeles de la prenda usando:
 
