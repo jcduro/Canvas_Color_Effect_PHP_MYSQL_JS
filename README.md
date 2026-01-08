@@ -107,12 +107,6 @@ Asegúrate de que la ruta en el JS coincida:
  ```
 ---
 
-```text
-js
-img.src = '/img/cami.png';
- ```
----
-
 Incluye el módulo (por ejemplo canvas_color.php) dentro del layout de tu dashboard:
 
 ```text
